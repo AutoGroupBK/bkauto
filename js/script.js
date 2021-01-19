@@ -143,7 +143,7 @@ $(document).ready(function () {
 
   $.ajax({
     type: "GET",
-    url: "http://artemsdobnikov.ru/julia/price.json",
+    url: "https://autogroupbk.github.io/bkauto/price.json",
     dataType: 'json',
     cache: false,
     success: function (data) {
