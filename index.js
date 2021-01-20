@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Премиум седан</h2>
                 <p class="offer__price">от 14 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="hhttps://autogroupbk.github.io/bkauto/imagestilda/premium-sedan.png" alt="">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/premium-sedan.png" alt="">
                 </div>
                 <button class="offer__btn" data-id="9">Подробнее</button>
             </li>
