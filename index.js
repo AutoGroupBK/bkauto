@@ -533,13 +533,13 @@ document.addEventListener("DOMContentLoaded", () => {
         css = document.createElement('link'),
         head = document.head || document.getElementsByTagName('head')[0];
 
-    lightgalleryAll.src = "http://artemsdobnikov.ru/julia/lightgallery/lightgallery-all.min.js";
+    lightgalleryAll.src = https://autogroupbk.github.io/bkauto/lightgallery/lightgallery-all.min.js";
     lightgalleryAll.async = false;
 
     picturefill.src = "https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js";
     picturefill.async = false;
 
-    css.href = "http://artemsdobnikov.ru/julia/lightgallery/lightgallery.css";
+    css.href = "https://autogroupbk.github.io/bkauto/lightgallery/lightgallery.css";
     css.rel = "stylesheet";
 
     lightgalleryAll.addEventListener('load', function () {
