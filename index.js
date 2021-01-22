@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .lg-sub-html {
             font-size: 20px !important;
         }
-        .lg-image {
+        img[class][src].lg-image {
             max-width: 1000px !important;
             width: 100% !important;
         } 
