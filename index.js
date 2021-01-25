@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
             position: static !important;
         }
         [data-id="iframe"] .tn-elem {
-            max-width: 1240px !important;
-            width: 100% !important;
+            max-width: 1260px !important;
+            width: calc(100% - 20px) !important;
             margin: 0 auto !important;
             left: 10px !important;
             right: 10px !important;
