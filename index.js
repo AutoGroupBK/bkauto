@@ -134,7 +134,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Стандарт</h2>
                 <p class="offer__price">от 6 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/standart.png" alt="Стандарт">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/standart.webp" alt="Стандарт">
                 </div>
                 <button class="offer__btn" data-id="7">Подробнее</button>
             </li>
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Комфорт</h2>
                 <p class="offer__price">от 7 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/comfort.png" alt="Комфорт">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/comfort.webp" alt="Комфорт">
                 </div>
                 <button class="offer__btn" data-id="6">Подробнее</button>
             </li>
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Бизнес седан</h2>
                 <p class="offer__price">от 9 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/business-sedan.png" alt="Бизнес седан">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/business-sedan.webp" alt="Бизнес седан">
                 </div>
                 <button class="offer__btn" data-id="8">Подробнее</button>
             </li>
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Премиум седан</h2>
                 <p class="offer__price">от 14 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/premium-sedan.png" alt="">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/premium-sedan.webp" alt="">
                 </div>
                 <button class="offer__btn" data-id="9">Подробнее</button>
             </li>
@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Кроссоверы</h2>
                 <p class="offer__price">от 8 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/crossovers.png" alt="Кроссоверы">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/crossovers.webp" alt="Кроссоверы">
                 </div>
                 <button class="offer__btn" data-id="1">Подробнее</button>
             </li>
@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Внедорожники</h2>
                 <p class="offer__price">от 11 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/SUVs.png" alt="Внедорожники">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/SUVs.webp" alt="Внедорожники">
                 </div>
                 <button class="offer__btn" data-id="2">Подробнее</button>
             </li>
@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Спорт-купе</h2>
                 <p class="offer__price">от 12 000$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/sports-coupe.png" alt="Спорт-купе">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/sports-coupe.webp" alt="Спорт-купе">
                 </div>
                 <button class="offer__btn" data-id="4">Подробнее</button>
             </li>
@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Электрокары</h2>
                 <p class="offer__price">от 5500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/electric-cars.png" alt="Электрокары">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/electric-cars.webp" alt="Электрокары">
                 </div>
                 <button class="offer__btn" data-id="5">Подробнее</button>
             </li>
@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Мотоциклы</h2>
                 <p class="offer__price">от 2000$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/motorcycles.png" alt="Мотоциклы">
+                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/motorcycles.webp" alt="Мотоциклы">
                 </div>
                 <button class="offer__btn" data-id="3">Подробнее</button>
             </li>
