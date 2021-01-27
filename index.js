@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <picture>
                         <source srcset="https://autogroupbk.github.io/bkauto/imagestilda/standart.webp" type="image/webp">
                         <source srcset="https://autogroupbk.github.io/bkauto/imagestilda/standart.png" type="image/png"> 
-                        <img class="offer__image" src="img/banner.jpg" alt="Стандарт">
+                        <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/standart.png" alt="Стандарт">
                     </picture>
                 </div>
                 <button class="offer__btn" data-id="7">Подробнее</button>
