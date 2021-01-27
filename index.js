@@ -134,7 +134,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h2 class="offer__title">Стандарт</h2>
                 <p class="offer__price">от 6 500$</p>
                 <div class="offer__image-wrapper">
-                    <img class="offer__image" src="https://autogroupbk.github.io/bkauto/imagestilda/standart.webp" alt="Стандарт">
+                    <picture>
+                        <source srcset="https://autogroupbk.github.io/bkauto/imagestilda/standart.webp" type="image/webp">
+                        <source srcset="https://autogroupbk.github.io/bkauto/imagestilda/standart.png" type="image/png"> 
+                        <img class="offer__image" src="img/banner.jpg" alt="Стандарт">
+                    </picture>
                 </div>
                 <button class="offer__btn" data-id="7">Подробнее</button>
             </li>
