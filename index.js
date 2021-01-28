@@ -205,71 +205,71 @@ document.addEventListener("DOMContentLoaded", () => {
             </li>
         </ul>
         <ul id="lightgallery1" class="list-unstyled row visually-hidden">
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/1.webp" data-sub-html="Nissan Juke 2016 <br>Пробег: 54 тыс. миль <br>Цена в Украине: 8 400$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/1.jpg" data-sub-html="Nissan Juke 2016 <br>Пробег: 54 тыс. миль <br>Цена в Украине: 8 400$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/1.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/1.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/2.webp" data-sub-html="Mazda CX-5 2017 <br>Пробег: 24 тыс. миль <br>Цена в Украине: 13 500$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/2.jpg" data-sub-html="Mazda CX-5 2017 <br>Пробег: 24 тыс. миль <br>Цена в Украине: 13 500$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/2.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/2.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/3.webp" data-sub-html="BMW X3 2015<br>Пробег: 58 тыс. миль <br>Цена в Украине: 14 000$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/3.jpg" data-sub-html="BMW X3 2015<br>Пробег: 58 тыс. миль <br>Цена в Украине: 14 000$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/3.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/4.webp" data-sub-html="Volkswagen Tiguan 2013 <br>Пробег: 72 тыс. миль <br>Цена в Украине: 7 900$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/4.jpg" data-sub-html="Volkswagen Tiguan 2013 <br>Пробег: 72 тыс. миль <br>Цена в Украине: 7 900$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/4.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/4.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/5.webp" data-sub-html="Kia Sportage 2017 <br>Пробег: 28 тыс. миль <br>Цена в Украине: 11 000$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/5.jpg" data-sub-html="Kia Sportage 2017 <br>Пробег: 28 тыс. миль <br>Цена в Украине: 11 000$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/5.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/5.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/6.webp" data-sub-html="Toyota RAV4 2016 год <br>Пробег 51 тыс миль <br>Цена в Украине 11500 $">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/1/6.jpg" data-sub-html="Toyota RAV4 2016 год <br>Пробег 51 тыс миль <br>Цена в Украине 11500 $">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/6.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/1/6.jpg">
                 </a>
             </li>
         </ul>
         <ul id="lightgallery2" class="list-unstyled row visually-hidden">
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/1.webp" data-sub-html="BMW X5 2016 <br>Пробег: 57 тыс. миль <br>Цена в Украине: 20 500$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/1.jpg" data-sub-html="BMW X5 2016 <br>Пробег: 57 тыс. миль <br>Цена в Украине: 20 500$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/1.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/1.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/2.webp" data-sub-html="Mercedes Benz GL class 2014<br>Пробег: 79 тыс. миль <br>Цена в Украине: 24 000$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/2.jpg" data-sub-html="Mercedes Benz GL class 2014<br>Пробег: 79 тыс. миль <br>Цена в Украине: 24 000$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/2.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/2.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/3.webp" data-sub-html="Porsche Cayenne 2014 <br>Пробег: 77 тыс. миль <br>Цена в Украине: 20 500$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/3.jpg" data-sub-html="Porsche Cayenne 2014 <br>Пробег: 77 тыс. миль <br>Цена в Украине: 20 500$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/3.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/4.webp" data-sub-html="Jeep Grand Cherokee 2016<br>Пробег: 62 тыс. миль<br>Цена в Украине: 18 700$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/4.jpg" data-sub-html="Jeep Grand Cherokee 2016<br>Пробег: 62 тыс. миль<br>Цена в Украине: 18 700$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/4.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/4.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/5.webp" data-sub-html="Hyundai Santa Fe 2017<br>Пробег: 17 тыс. миль <br>Цена в Украине: 11 500$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/5.jpg" data-sub-html="Hyundai Santa Fe 2017<br>Пробег: 17 тыс. миль <br>Цена в Украине: 11 500$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/5.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/5.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/6.webp" data-sub-html="Range Rover Velar 2018 <br>Пробег: 11 тыс. миль <br>Цена в Украине: 40 700$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/6.jpg" data-sub-html="Range Rover Velar 2018 <br>Пробег: 11 тыс. миль <br>Цена в Украине: 40 700$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/6.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/6.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/7.webp" data-sub-html="Nissan Rogue S 2015<br>Пробег: 58 тыс. миль <br>Цена в Украине: 9 000$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/2/7.jpg" data-sub-html="Nissan Rogue S 2015<br>Пробег: 58 тыс. миль <br>Цена в Украине: 9 000$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/7.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/2/7.jpg">
                 </a>
             </li>
         </ul>
@@ -323,9 +323,9 @@ document.addEventListener("DOMContentLoaded", () => {
             </li>
         </ul>
         <ul id="lightgallery5" class="list-unstyled row visually-hidden">
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/1.webp" data-sub-html="BMW i3 2016<br>Пробег: 18 тыс. миль<br>Цена в Украине: 13 000$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/1.png" data-sub-html="BMW i3 2016<br>Пробег: 18 тыс. миль<br>Цена в Украине: 13 000$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/5/1.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/5/1.png">
                 </a>
             </li>
             <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/2.jpg" data-sub-html="KIA SOUL EV 2017<br>Пробег: 19 тыс. миль<br>Цена в Украине: 10 300$">
@@ -333,9 +333,9 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/5/2.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/3.webp" data-sub-html="Nissan Leaf 2011<br>Пробег: 53 тыс. миль<br>Цена в Украине: 5 800$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/3.png" data-sub-html="Nissan Leaf 2011<br>Пробег: 53 тыс. миль<br>Цена в Украине: 5 800$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/5/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/5/3.png">
                 </a>
             </li>
             <li data-src="https://autogroupbk.github.io/bkauto/img/cars/5/4.jpg" data-sub-html="TESLA Model 3 2019<br>Пробег: 17 тыс. миль<br>Цена в Украине: 23 500$">
@@ -365,19 +365,19 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/2.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/3.webp" data-sub-html="BMW 3 series 2014<br>Пробег: 71 тыс. миль <br>Цена в Украине: 8 250$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/3.png" data-sub-html="BMW 3 series 2014<br>Пробег: 71 тыс. миль <br>Цена в Украине: 8 250$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/3.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/4.webp" data-sub-html="Ford Fusion 2016<br>Пробег: 48 тыс. миль<br>Цена в Украине: 7 300$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/4.png" data-sub-html="Ford Fusion 2016<br>Пробег: 48 тыс. миль<br>Цена в Украине: 7 300$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/4.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/4.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/5.webp" data-sub-html="Audi A4 2013 <br>Пробег: 59 тыс. миль<br>Цена в Украине: 8 900$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/5.png" data-sub-html="Audi A4 2013 <br>Пробег: 59 тыс. миль<br>Цена в Украине: 8 900$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/5.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/6/5.png">
                 </a>
             </li>
             <li data-src="https://autogroupbk.github.io/bkauto/img/cars/6/6.PNG" data-sub-html="Hyundai Elantra 2017<br>Пробег: 27 тыс. миль <br>Цена в Украине: 8 000$">
@@ -392,24 +392,24 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/1.PNG">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/2.webp" data-sub-html="Fiat 500 2015<br>Пробег: 32 тыс. миль <br>Цена в Украине: 6 300$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/2.png" data-sub-html="Fiat 500 2015<br>Пробег: 32 тыс. миль <br>Цена в Украине: 6 300$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/2.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/2.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/3.webp" data-sub-html="Dodge Dart 2015<br>Пробег: 64 тыс. миль<br>Цена в Украине: 6 300$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/3.png" data-sub-html="Dodge Dart 2015<br>Пробег: 64 тыс. миль<br>Цена в Украине: 6 300$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/3.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/4.webp" data-sub-html="Chevrolet Cruise 2015 <br>Пробег: 51 тыс. миль <br>Цена в Украине: 6 450$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/4.png" data-sub-html="Chevrolet Cruise 2015 <br>Пробег: 51 тыс. миль <br>Цена в Украине: 6 450$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/4.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/4.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/5.webp" data-sub-html="Hyundai Accent GLS 2015<br>Пробег: 63 тыс. миль <br>Цена в Украине: 6 150$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/5.png" data-sub-html="Hyundai Accent GLS 2015<br>Пробег: 63 тыс. миль <br>Цена в Украине: 6 150$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/5.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/7/5.png">
                 </a>
             </li>
             <li data-src="https://autogroupbk.github.io/bkauto/img/cars/7/6.jpg" data-sub-html="Ford Focus 2016<br>Пробег: 52 тыс. миль<br>Цена в Украине: 6 360$">
@@ -424,14 +424,14 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/1.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/2.webp" data-sub-html="Audi A6 2012<br>Пробег: 89 тыс. миль<br>Цена в Украине: 12 500$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/2.png" data-sub-html="Audi A6 2012<br>Пробег: 89 тыс. миль<br>Цена в Украине: 12 500$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/2.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/2.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/3.webp" data-sub-html="BMW 5 series 2014 <br>Пробег: 61 тыс. миль <br>Цена в Украине: 12 100$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/3.png" data-sub-html="BMW 5 series 2014 <br>Пробег: 61 тыс. миль <br>Цена в Украине: 12 100$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/3.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/3.png">
                 </a>
             </li>
             <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/4.jpg" data-sub-html="Toyota Camry 2018<br>Пробег: 23 тыс. миль<br>Цена в Украине: 13 500$">
@@ -439,19 +439,19 @@ document.addEventListener("DOMContentLoaded", () => {
                     <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/4.jpg">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/5.webp" data-sub-html="Mazda 6 2016<br>Пробег: 37 тыс. миль <br>Цена в Украине: 8 800$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/5.png" data-sub-html="Mazda 6 2016<br>Пробег: 37 тыс. миль <br>Цена в Украине: 8 800$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/5.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/5.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/6.webp" data-sub-html="Hyundai Sonata 2016<br>Пробег: 68 тыс. миль <br>Цена в Украине: 7 600$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/6.png" data-sub-html="Hyundai Sonata 2016<br>Пробег: 68 тыс. миль <br>Цена в Украине: 7 600$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/6.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/6.png">
                 </a>
             </li>
-            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/7.webp" data-sub-html="KIA Optima 2016<br>Пробег: 60 тыс. миль<br>Цена: 7 800$">
+            <li data-src="https://autogroupbk.github.io/bkauto/img/cars/8/7.png" data-sub-html="KIA Optima 2016<br>Пробег: 60 тыс. миль<br>Цена: 7 800$">
                 <a href="">
-                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/7.webp">
+                    <img class="img-responsive" src="https://autogroupbk.github.io/bkauto/img/cars/8/7.png">
                 </a>
             </li>
         </ul>
