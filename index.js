@@ -1,8 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
-    document.querySelector("#myWrapper").closest(".r.t-rec").dataset.id = "cards";
-
-    document.querySelector("#myFrame").closest(".r.t-rec").dataset.id = "iframe";
-
+    const myWrapper = document.querySelector("#myWrapper");
+    if (myWrapper) {
+        myWrapper.closest(".r.t-rec").dataset.id = "cards";
+    }
+    
+    const myFrame = document.querySelector("#myFrame");
+    if (myFrame) {
+        myFrame.closest(".r.t-rec").dataset.id = "iframe";
+    }
 
     document.querySelector("#myWrapper").innerHTML = `
     <style>
